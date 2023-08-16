@@ -50,7 +50,7 @@ Contribuidor principal: https://www.github.com/blzjom
 ## Código da função soma
 
 ```javascript
-function soma (a, b) {
+function soma(a, b) {
     return a + b;
 }
 ```
