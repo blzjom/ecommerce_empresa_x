@@ -35,7 +35,7 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-![Logo do PHP](hhtps://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
 #### Links interessantes:
 
@@ -44,3 +44,5 @@ __Melhoria 1__, _melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/blzjom
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/blzjom)
