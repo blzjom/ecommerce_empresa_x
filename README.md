@@ -37,7 +37,7 @@ __Melhoria 1__, _melhoria 2_
 
 ![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
-#### Links interessantes:
+## Links interessantes:
 
 [Google](https://www.google.com)
 
@@ -46,3 +46,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://www.github.com/blzjom
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/blzjom)
+
+## Código da função soma
+
+```javascript
+function soma (a, b) {
+    return a + b;
+}
+```
